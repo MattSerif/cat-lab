@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+# raw datasets stay local; the pipeline turns them into src/data
+datasets/
+pipeline/out/
+__pycache__/
